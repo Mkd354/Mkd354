@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/manish-kumar-das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manish-kumar-das" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/manish kumar das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manish kumar das" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manish kumar das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manish kumar das" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/36niyrte9p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="36niyrte9p" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mkid7u0jy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mkid7u0jy" height="30" width="40" /></a>
 </p>
 
